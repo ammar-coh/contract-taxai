@@ -1,1 +1,6 @@
 printf ".venv/\n__pycache__/\n*.pyc\nstorage/\n.env\n.DS_Store\n" > .gitignore
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
